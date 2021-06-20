@@ -43,10 +43,22 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Overview - About The Project
-
-![Product Name Screen Shot](https://example.com)
 ![alt text](https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/Screenshots/laneLines_thirdPass.jpg)
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+<br />
+Humans have eyes to understand the sounding but machines don't. Autonomous systems have Cameras to see the world and by using the Computer Vision algorithm, they can understand them, take decisions.
+I designed a Lane Line detection program that helps autonomous cars and trucks to find the line in any environment or weather.
+
+
+<!-- Tools -->
+## Tools and Technique
+
+* [Color Selection]
+* [Region of Interest Selection]
+* [Grayscaling]
+* [Gaussian smoothing]
+* [Canny Edge Detection]
+* [Hough Transform line detection]
+
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
