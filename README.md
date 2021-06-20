@@ -101,7 +101,13 @@ I designed a Lane Line detection program that helps autonomous cars and trucks t
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Muditya Raghav (https://www.linkedin.com/in/muditya/) - rmuditya@gmail.com
+Muditya Raghav 
+* [Muditya Raghav](https://rmuditya.github.io/MudityaRaghav/)
+* [Linkedin](https://www.linkedin.com/in/muditya/)
+* [Twitter](https://twitter.com/RaghavMuditya)
+* [Instagram](https://www.instagram.com/mudityaraghav/)
+* [Gmail - rmuditya@gmail.com](rmuditya@gmail.com)
+
 
 Project Link: Lane Line Detection Project build for autonomous cars and trucks.(https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video)
 
