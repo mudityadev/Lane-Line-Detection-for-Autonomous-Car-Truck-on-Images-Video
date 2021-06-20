@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/Screenshots/icon.jpg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Screenshots/icon.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
