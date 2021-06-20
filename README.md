@@ -22,18 +22,18 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#overview">Overview - About The Project</a></li>
-    <li><a href="#tools">Tools and Technique</a></li>
+    <li><a href="#Overview---About-The-Project">Overview - About The Project</a></li>
+    <li><a href="#Tools-and-Technique">Tools and Technique</a></li>
     <li><a href="#pipeline">Pipeline</a></li>
     <li>
-      <a href="#getting-started">How to Run</a>
+      <a href="#How-to-Run">How to Run</a>
       <ul>
         <li><a href="#prerequisites">Environment Setup</a></li>
         <li><a href="#installation">Installation of Libraries</a></li>
         <li><a href="#installation">Command on Terminal</a></li>
       </ul>
     </li>
-    <li><a href="#improve">Possible Improvements</a></li>
+    <li><a href="#Possible-Improvements">Possible Improvements</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
