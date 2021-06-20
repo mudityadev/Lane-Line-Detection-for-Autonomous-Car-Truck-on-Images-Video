@@ -1,11 +1,6 @@
 <!-- PROJECT -->
-<br />
-<p align="center">
-  <a href="https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/Screenshots/icon.jpg">
-    <img src="Screenshots/icon.jpg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Lane Line Detection for Autonomous Car Truck on Images Video
+</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
