@@ -73,18 +73,39 @@ I designed a Lane Line detection program that helps autonomous cars and trucks t
 
 
 
-### Installation
+## How to Run
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Ubuntu 20.04 or 18.04 (Environment)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video.git
    ```
-3. Install NPM packages
+3. Install Requirements
    ```sh
-   npm install
+   pip3 install -r requirements
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+4. Open Terminal and Open Juypter 
+   ```sh
+  juypter notebook
    ```
+
+
+<!-- Improvement -->
+## Possible Improvements
+
+1. Image segmentation for accurate predication 
+2. Under the curve of the road
+3. If a lane line is not found, how to manage that situation.
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - Muditya Raghav (https://www.linkedin.com/in/muditya/) - rmuditya@gmail.com
+
+Project Link: Lane Line Detection Project build for autonomous cars and trucks.(https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mudityadev){:target="_blank"}
+
+<a href="https://www.buymeacoffee.com/mudityadev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
