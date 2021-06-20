@@ -109,9 +109,5 @@ Muditya Raghav
 * [Gmail - rmuditya@gmail.com](rmuditya@gmail.com)
 
 
-Project Link: Lane Line Detection Project build for autonomous cars and trucks.(https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video)
-
-
-
 <a href="https://www.buymeacoffee.com/mudityadev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 217px !important;" ></a>
 
