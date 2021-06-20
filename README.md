@@ -1,18 +1,18 @@
 <!-- PROJECT -->
-  <h3 align="center">Lane Line Detection for Autonomous Car Truck on Images Video
+  <h3 align="center">Lane Line Detection Project 
 </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   Build for autonomous cars and trucks.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://rmuditya.github.io/MudityaRaghav/"><strong>Muditya Raghav Portflio »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/test_videos_output/solidWhiteRight.mp4">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/issues">Request Feature</a>
   </p>
 </p>
 
@@ -22,25 +22,19 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#overview">Overview About The Project</a></li>
+    <li><a href="#tools">Tools and Technique</a></li>
+    <li><a href="#pipeline">Pipeline</a></li>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#getting-started">How to Run</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#prerequisites">Environment Setup</a></li>
+        <li><a href="#installation">Installation of Libraries</a></li>
+        <li><a href="#installation">Command on Terminal</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#improve">Possible Improvements</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
