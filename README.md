@@ -52,16 +52,39 @@ I designed a Lane Line detection program that helps autonomous cars and trucks t
 <!-- Tools -->
 ## Tools and Technique
 
-* [Color Selection]
-* [Region of Interest Selection]
-* [Grayscaling]
-* [Gaussian smoothing]
-* [Canny Edge Detection]
-* [Hough Transform line detection]
+* Color Selection
+* Region of Interest Selection
+* Grayscaling
+* Gaussian smoothing
+* Canny Edge Detection
+* Hough Transform line detection
+
+<!-- Pipeline -->
+## Pipeline
+
+* Import all library - NumPy, OpenCV, Matplotlib
+* Image Images
+* Convert RGB image to Grayscale image
+* Using Canny Edge detection 
+* Region of Interest - 4 Sided polygon to Mask
+* Hough Transform
+* Draw the lines
+* Output
 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
 
+### Installation
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```JS
+   const API_KEY = 'ENTER YOUR API';
+   ```
