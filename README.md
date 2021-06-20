@@ -1,11 +1,7 @@
-<!-- icon -->
-![LinkedIn][https://www.linkedin.com/in/muditya/]
-
-
-<!-- PROJECT LOGO -->
+<!-- PROJECT -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/Screenshots/icon.jpg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
