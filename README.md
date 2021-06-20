@@ -86,7 +86,7 @@ I designed a Lane Line detection program that helps autonomous cars and trucks t
    ```
 4. Open Terminal and Open Juypter 
    ```sh
-  juypter notebook
+   juypter notebook
    ```
 
 
