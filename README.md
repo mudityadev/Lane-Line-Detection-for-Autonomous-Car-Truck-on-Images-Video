@@ -22,7 +22,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#overview">Overview About The Project</a></li>
+    <li><a href="#overview">Overview - About The Project</a></li>
     <li><a href="#tools">Tools and Technique</a></li>
     <li><a href="#pipeline">Pipeline</a></li>
     <li>
@@ -42,10 +42,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Overview - About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+![Product Name Screen Shot](https://example.com)
+![alt text](https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/Screenshots/laneLines_thirdPass.jpg)
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
